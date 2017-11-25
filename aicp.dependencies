@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "repository": "LineageOS/android_kernel_google_wahoo",
+    "target_path": "kernel/google/wahoo",
+    "branch":      "lineage-15.1"
+  }
+]
