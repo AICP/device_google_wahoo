@@ -3,9 +3,9 @@
 ### MediaProvider and DownloadProvider and associated services.
 ###
 
-type mediaprovider, domain;
-typeattribute mediaprovider coredomain;
-app_domain(mediaprovider)
+# type mediaprovider, domain;
+# typeattribute mediaprovider coredomain;
+# app_domain(mediaprovider)
 
 # DownloadProvider accesses the network.
 net_domain(mediaprovider)
