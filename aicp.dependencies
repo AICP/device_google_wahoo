@@ -5,8 +5,8 @@
     "branch":      "lineage-15.1"
   },
   {
-    "repository": "LineageOS/android_kernel_google_wahoo",
+    "repository": "nathanchance/wahoo",
     "target_path": "kernel/google/wahoo",
-    "branch":      "lineage-15.1"
+    "branch":      "oreo-mr1"
   }
 ]
