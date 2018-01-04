@@ -170,3 +170,10 @@ BOARD_PROPERTY_OVERRIDES_SPLIT_ENABLED := true
 TARGET_USES_MKE2FS := true
 
 BOARD_VNDK_VERSION := current
+
+WITH_TWRP := true
+
+# TWRP
+ifeq ($(WITH_TWRP),true)
+include device/google/wahoo/twrp.mk
+endif
