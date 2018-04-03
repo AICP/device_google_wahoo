@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0055628e_5144fa69",
+        "filename": "liblight/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 152
+      },
+      "writtenOn": "2018-04-03T08:31:48Z",
+      "side": 1,
+      "message": "2 spaces :P",
+      "revId": "54244a54ad92a4626e695d3bef2c215d4260923b",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
