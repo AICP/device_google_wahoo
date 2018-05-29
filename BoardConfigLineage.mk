@@ -10,6 +10,6 @@ TARGET_KERNEL_SOURCE := kernel/google/wahoo
 TARGET_NEEDS_DTBOIMAGE := true
 TARGET_KERNEL_CLANG_TRIPLE := aarch64-linux-gnu-
 TARGET_KERNEL_CLANG_COMPILE := true
-TARGET_KERNEL_CLANG_VERSION := 7.0.1
+TARGET_KERNEL_CLANG_VERSION := 7.0.2
 
 -include vendor/google/wahoo/BoardConfigVendor.mk
