@@ -10,3 +10,11 @@ PRODUCT_PACKAGES += \
    com.android.ims.rcsmanager \
    RcsService \
    PresencePolling
+
+# Google Camera
+PRODUCT_COPY_FILES += \
+   device/google/wahoo/camera/etc/permissions/com.google.android.camera.experimental2017.xml:system/etc/permissions/com.google.android.camera.experimental2017.xml 
+
+# Google Camera
+PRODUCT_PACKAGES += \
+   com.google.android.camera.experimental2017
